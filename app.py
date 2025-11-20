@@ -13,4 +13,4 @@ while True:
 
 #Unit Conversion and Calculation
 weeklky_minutes = minutes * 7
-print(f"Your estimated total driving time this week is {weeklky_minutes} minutes")
+print(f"Your estimated total driving time this week is {weeklky_minutes:.0f} minutes")
